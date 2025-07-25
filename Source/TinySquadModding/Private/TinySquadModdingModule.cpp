@@ -14,7 +14,7 @@
  **/
 
 
-#include "TinySquadFrameworkModule.h"
+#include "TinySquadModdingModule.h"
 
 #define LOCTEXT_NAMESPACE "FTinySquadModdingModule"
 
