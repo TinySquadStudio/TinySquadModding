@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TinySquadModding",
+	"Description": "Tiny Squad Modding core",
+	"Category": "Other",
+	"CreatedBy": "Tiny Squad",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules" : [
+		{
+			"Name" : "TinySquadModding",
+			"Type" : "Runtime",
+			"LoadingPhase" : "Default"
+		},
+		{
+			"Name": "TinySquadModdingEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+	],
+	"Plugins": [ ]
+}
