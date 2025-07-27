@@ -20,16 +20,10 @@ public class TinySquadModding
 			"Core",
 			"CoreUObject",
 			"Engine",
-			"EnhancedInput",
-			"InputCore",
 			"UMG"
 		} );
 
-		PrivateDependencyModuleNames.AddRange( new string[] {
-			"GameplayTags",
-			"GameplayTasks",
-			"UnrealEd"
-		} );
+		PrivateDependencyModuleNames.AddRange( new string[] { "UnrealEd" } );
 
 		DynamicallyLoadedModuleNames.AddRange( new string[] { } );
 
