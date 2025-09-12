@@ -1,16 +1,50 @@
-MIT License
+MIT-LIKE LICENSE (MODIFIED FOR Tiny Squad Studio - Squadron One Team)
 
 Copyright (c) 2025 Tiny Squad Studio
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person who obtains a copy
+of this software and associated documentation files (the "Software") from
+Tiny Squad Studio (Squadron One Team), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to permit persons
+to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Internal Use and Team Member Personal Projects: The Software may be used, copied,
+    modified, and incorporated into projects within Tiny Squad Studio (Squadron One
+    Team) for team-related purposes. Additionally, individuals who are current
+    members of Tiny Squad Studio (Squadron One Team) are granted permission to use,
+    copy, and modify the Software for their personal, non-team-related projects,
+    provided such use complies with all other terms of this license.
+
+2. Strict External Distribution Limitations:
+    a. No Direct Source Code Sharing: The source code of the Software, or any
+        modified version thereof, shall not be directly distributed,
+        made available, shared via links (e.g., source code repositories, clone URLs),
+        or otherwise put into the possession of individuals or entities who are
+        not current members of Tiny Squad Studio (Squadron One Team).
+    b. External Use of Compiled Binaries Only: External collaborators or
+        members of projects not directly affiliated with Tiny Squad Studio (Squadron
+        One Team) may only receive and use the compiled library (binary form) and
+        necessary API headers of the Software. They are explicitly
+        prohibited from modifying, adding to, editing, removing, or patching
+        the library or source code of the Software.
+    c. Prior Approval for Exceptions: Any deviation from these external
+        distribution limitations, including the direct sharing of source code,
+        requires explicit written permission from Tiny Squad Studio (Squadron One Team).
+
+3. Team Member Responsibilities for Licensed Libraries:
+    a. Notification of Use: Any member of Tiny Squad Studio (Squadron One Team) who
+        incorporates libraries licensed under this specific license into their
+        projects must Tiny Squad Studio of such inclusion.
+    b. Version Control and Removal: Studio Stak reserves the right to limit the
+        versions of such libraries that may be used and to order the immediate
+        removal of any such library if its use is deemed to be in breach of these
+        rules, creates conflicts with Tiny Squad Studio's objectives, or poses any
+        other operational or legal concern.
+
+4. Preservation of Copyright and Permission Notice: The above copyright notice
+    and this permission notice shall be included in all copies or substantial
+    portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
