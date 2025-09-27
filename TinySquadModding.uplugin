@@ -26,5 +26,10 @@
 			"LoadingPhase": "PostEngineInit"
 		},
 	],
-	"Plugins": [ ]
+	"Plugins": [
+		{
+			"Name": "TinySquadFramework",
+			"Enabled": true
+		}
+	]
 }

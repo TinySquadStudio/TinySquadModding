@@ -7,7 +7,7 @@ public class TinySquadModdingEditor
 {
 
 	public TinySquadModdingEditor( ReadOnlyTargetRules Target ) 
-		: base( Target ) 
+		: base( Target )
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 
@@ -19,20 +19,13 @@ public class TinySquadModdingEditor
 			"Core",
 			"CoreUObject",
 			"Engine",
-			"InputCore",
-			"PropertyEditor",
-			"ToolMenus",
-			"UnrealEd",
-			"ToolMenus"
+			"TinySquadModding"
 		} );
 
 		PrivateDependencyModuleNames.AddRange( new string[] {
-			"EditorStyle",
-			"LevelEditor",
-			"PropertyEditor",
+			"UnrealEd",
 			"Slate",
-			"SlateCore",
-			"TinySquadModding"
+			"SlateCore"
 		} );
 
 		DynamicallyLoadedModuleNames.AddRange( new string[] { } );

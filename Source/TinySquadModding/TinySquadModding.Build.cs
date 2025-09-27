@@ -20,6 +20,7 @@ public class TinySquadModding
 			"Core",
 			"CoreUObject",
 			"Engine",
+			"TinySquadFramework",
 			"UMG"
 		} );
 
